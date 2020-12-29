@@ -1,4 +1,4 @@
-# phpTutorials
+# Markdown tutorial
 ___
 
 <!-- Font -->
