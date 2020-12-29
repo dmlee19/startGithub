@@ -1,6 +1,10 @@
 # Markdown tutorial
 ___
 
+learning how to write README with markdown.
+
+
+
 <!-- Font -->
 **bold**,  *italic*, ~~strikethrough~~
 
